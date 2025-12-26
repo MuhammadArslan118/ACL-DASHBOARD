@@ -1,0 +1,5 @@
+{
+  "name": "SecureDash RBAC",
+  "description": "A modern React dashboard featuring a robust Role-Based Access Control (RBAC) system with theme switching, protected routes, and interactive data visualizations.",
+  "requestFramePermissions": []
+}
